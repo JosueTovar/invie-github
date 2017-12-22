@@ -1,2 +1,2 @@
 # invie-github
-musica y software
+musica y software de locura menor.
